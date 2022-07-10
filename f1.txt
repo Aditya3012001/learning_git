@@ -1,1 +1,3 @@
 master branch is created as a default
+git log is used to see commits
+`:t
